@@ -1,7 +1,12 @@
-# Cronometro-Regressivo
+# Cronometro-Regressivo 🎮
+# 📃 Descrição
+# Project Specifications
 Cronometro Regressivo
-Criado em HTML5, CSS e Javascript
-Musica adicionado em HTML5
-Clique no calendario e selecione a dat
-veja em:
-http://www.thenilson.com/cronometro/
+#💻 Tecnologias Utilizadas
+Foram utilizadas as seguintes tecnologias para o desenvolvimento:
+- HTML
+- CSS
+- JavaScript
+#🖱️ Acesso:
+https://www.thenilson.com/cronometro/
+
